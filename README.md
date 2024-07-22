@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**Juhye0k/Juhye0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ok's%20Github!&fontSize=90" />	
+</div>
+<div align=center>
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhye0k&layout=compact">
+  	<img src="https://github-readme-stats.vercel.app/api?username=Juhye0k&show_icons=true&theme=holi">
+  	</br>
+</div>
+<div>
+	<h2>I've used</h2>
+<details>
+	<summary>
+	  Language
+	</summary>
+</details>
+<details>
+	 <summary>
+	  Tools
+	</summary>
+</details>
+	<details>
+	 <summary>
+	  Database
+	</summary>
+</details>
+</div>
