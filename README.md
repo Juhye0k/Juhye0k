@@ -12,11 +12,14 @@
 <details>
 	<summary>
 	  Language
+		<img src="https://img.shields.io/badge/NestjS-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
 	</summary>
 </details>
 <details>
 	 <summary>
 	  Tools
+		<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
 	</summary>
 </details>
 	<details>
@@ -25,3 +28,5 @@
 	</summary>
 </details>
 </div>
+
+
