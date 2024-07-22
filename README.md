@@ -3,34 +3,26 @@
 </div>
 <div align=center>
 	<br>
+	<div><
+	<img src="https://github-readme-stats.vercel.app/api?username=Juhye0k&show_icons=true&theme=holi">
+	[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoung0161)](https://solved.ac/kyoung0161)
+	</div>
+	<br></br>
+	<br></br>
+	<div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhye0k&layout=compact">
-  	<img src="https://github-readme-stats.vercel.app/api?username=Juhye0k&show_icons=true&theme=holi">
-  	</br>
+	</div>
+   
 </div>
+
 <div>
-	<h2>I've used</h2>
-<details>
-	<summary>
-	  Language
-		<div>
-		<img src="https://img.shields.io/badge/NestjS-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
-		</div>
-	</summary>
-</details>
-<details>
-	 <summary>
-	  Tools
-		 <div>
-		<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
+	<h2>📚Studying📚</h2>
+ 		<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
-		 </div>
-	</summary>
-</details>
-	<details>
-	 <summary>
-	  Database
-	</summary>
-</details>
+		<img src="https://img.shields.io/badge/NestjS-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
+  		<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
+	
+
 </div>
 
 
