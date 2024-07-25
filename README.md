@@ -23,9 +23,18 @@
 <br><br>
 <div>
 <h2>📮Contacts📮</h2>
-	
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=juhyeok01)](https://velog.io/@juhyeok01)
+<span>
+  <a href="https://www.instagram.com/juhye0k_01/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="https://velog.io/@kyoung0161/posts">
+    <img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white"/>
+  </a>
+</span>
 </div>
+ 
 
 
 
