@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
     <img src="https://img.shields.io/badge/NestjS-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
     <h3>Languages</h3>
     <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
