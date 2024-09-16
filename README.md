@@ -5,7 +5,7 @@
 <div align=center>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoung0161)](https://solved.ac/kyoung0161/)
-<img src="https://github-readme-stats.vercel.app/api?username=Juhye0k&show_icons=true&theme=holi">
+<img src="https://github-readme-stats.vercel.app/api?username=Juhye0k&show_icons=true&theme=holi&cache_seconds=1800" />
 </div>
 <br><br>
 <div align=center>
