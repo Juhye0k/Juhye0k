@@ -33,6 +33,7 @@
 </div>
 <br><br>
 <div>
+<div align=center>
 <h2>📮Contacts📮</h2>
 <span>
   <a href="https://www.instagram.com/juhye0k_01/">
