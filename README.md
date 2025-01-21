@@ -9,11 +9,8 @@
 </div>
 <br><br>
 <div align=center>
-	<div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhye0k&layout=compact">
 
-<div>
-<br><br>
+<br>
 	<h2>📚Studying📚</h2>
     <h3>Frameworks</h3>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
