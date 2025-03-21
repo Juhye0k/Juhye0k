@@ -35,11 +35,7 @@
 <div>
 <div align=center>
 <h2>📮Contacts📮</h2>
-<span>
-  <a href="https://www.instagram.com/juhye0k_01/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
+
 <span>
   <a href="https://velog.io/@kyoung0161/posts">
     <img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white"/>
