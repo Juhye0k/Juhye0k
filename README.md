@@ -1,3 +1,26 @@
+<div align="center">
+  <blockquote>
+    <p><strong>끊임없는 성장을 추구하고, 좋은 습관을 유지하며, 사람들과 커뮤니티를 이루는 것을 소중히 여깁니다.</strong></p>
+  </blockquote>
+</div>
+
+
+
+
+<div align="center">
+
+<!-- Solved.ac -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoung0161)](https://solved.ac/kyoung0161/)
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Juhye0k&show_icons=true&theme=tokyonight" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juhye0k&theme=tokyonight" />
+
+</div>
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -12,7 +35,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
 
-
+<br>
 
 ## 블로그
 
@@ -21,7 +44,7 @@
 - [40명 → 78명, 지원자를 약 2배 늘린 멋사 홍보 프로젝트 회고](https://velog.io/@kyoung0161/LikeLion)
 - [Spring @PreAuthorize의 한계와 커스텀 어노테이션 + AOP로 해결하기](https://velog.io/@kyoung0161/SpringPreAuthorize%EC%9D%98-%ED%95%9C%EA%B3%84-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-AOP%EB%A1%9C-%ED%95%B4%EA%B2%B0)
 
-
+<br>
 
 ## 📮 Contact
 
