@@ -1,6 +1,6 @@
 <div align="center">
   <blockquote>
-    <p><strong>끊임없는 성장을 추구하고, 좋은 습관을 유지하며, 사람들과 커뮤니티를 이루는 것을 소중히 여깁니다.</strong></p>
+    <p><strong>끊임없는 성장을 추구하고, 사람들과 커뮤니티를 이루는 것을 소중히 여깁니다.</strong></p>
   </blockquote>
 </div>
 
@@ -37,7 +37,7 @@
 
 <br>
 
-## 블로그
+## 📝 Blog
 
 - [개취뽀에서 만난 개발자들의 진짜 이야기](https://velog.io/@kyoung0161/%EA%B0%9C%EC%B7%A8%EB%BD%80)
 - [사파리 환경에서 로그인이 안되는 이유](https://velog.io/@kyoung0161/Temp-Title)
