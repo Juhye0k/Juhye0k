@@ -43,6 +43,7 @@
 - [사파리 환경에서 로그인이 안되는 이유](https://velog.io/@kyoung0161/Temp-Title)
 - [40명 → 78명, 지원자를 약 2배 늘린 멋사 홍보 프로젝트 회고](https://velog.io/@kyoung0161/LikeLion)
 - [Spring @PreAuthorize의 한계와 커스텀 어노테이션 + AOP로 해결하기](https://velog.io/@kyoung0161/SpringPreAuthorize%EC%9D%98-%ED%95%9C%EA%B3%84-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-AOP%EB%A1%9C-%ED%95%B4%EA%B2%B0)
+- [멋사 중앙해커톤: Redis 캐싱, SSE 적용기](https://velog.io/@kyoung0161/%EA%B8%B0%EC%88%A0)
 
 <br>
 
