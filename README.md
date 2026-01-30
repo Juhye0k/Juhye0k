@@ -1,6 +1,6 @@
 <div align="center">
   <blockquote>
-    <p><strong>끊임없는 성장을 추구하고, 사람들과 커뮤니티를 이루는 것을 소중히 여깁니다.</strong></p>
+    <p><strong>끊임없는 성장을 추구하고, 사람들과의 소통을 소중히 여깁니다.</strong></p>
   </blockquote>
 </div>
 
