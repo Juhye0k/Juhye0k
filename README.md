@@ -38,7 +38,7 @@
 <br>
 
 ## 📝 Blog
-- [랭킹 구현, Redis가 최선일까?](https://velog.io/@kyoung0161/%EB%9E%AD%ED%82%B9-%EA%B5%AC%ED%98%84-Redis%EA%B0%80-%EC%B5%9C%EC%84%A0%EC%9D%BC%EA%B9%8C)
+- [좋은 커뮤니케이션이란 무엇일까?](https://velog.io/@kyoung0161/%EC%A2%8B%EC%9D%80)
 - [개취뽀에서 만난 개발자들의 진짜 이야기](https://velog.io/@kyoung0161/%EA%B0%9C%EC%B7%A8%EB%BD%80)
 - [사파리 환경에서 로그인이 안되는 이유](https://velog.io/@kyoung0161/Temp-Title)
 - [40명 → 78명, 지원자를 약 2배 늘린 멋사 홍보 프로젝트 회고](https://velog.io/@kyoung0161/LikeLion)
