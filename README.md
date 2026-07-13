@@ -38,6 +38,7 @@
 <br>
 
 ## 📝 Blog
+- [1초 단위 랭킹을 설계해보자 - 1편](https://velog.io/@kyoung0161/1%EC%B4%88-%EB%8B%A8%EC%9C%84)
 - [좋은 커뮤니케이션이란 무엇일까?](https://velog.io/@kyoung0161/%EC%A2%8B%EC%9D%80)
 - [개취뽀에서 만난 개발자들의 진짜 이야기](https://velog.io/@kyoung0161/%EA%B0%9C%EC%B7%A8%EB%BD%80)
 - [사파리 환경에서 로그인이 안되는 이유](https://velog.io/@kyoung0161/Temp-Title)
