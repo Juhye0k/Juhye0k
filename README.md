@@ -39,6 +39,7 @@
 
 ## 📝 Blog
 - [1초 단위 랭킹을 설계해보자 - 1편](https://velog.io/@kyoung0161/1%EC%B4%88-%EB%8B%A8%EC%9C%84)
+- [Redis Pub/Sub을 활용한 다중 서버 입찰 알림 누락 문제 해결](https://velog.io/@kyoung0161/Redis-PubSub%EC%9C%BC%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%9C-%EB%8B%A4%EC%A4%91-%EC%84%9C%EB%B2%84-%EC%9E%85%EC%B0%B0-%EC%95%8C%EB%A6%BC-%EB%88%84%EB%9D%BD)
 - [좋은 커뮤니케이션이란 무엇일까?](https://velog.io/@kyoung0161/%EC%A2%8B%EC%9D%80)
 - [개취뽀에서 만난 개발자들의 진짜 이야기](https://velog.io/@kyoung0161/%EA%B0%9C%EC%B7%A8%EB%BD%80)
 - [사파리 환경에서 로그인이 안되는 이유](https://velog.io/@kyoung0161/Temp-Title)
